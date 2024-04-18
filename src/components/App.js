@@ -90,7 +90,6 @@ function App() {
   return (
     <div className="App">
 
-      {/* SearchEngine component */}
       <SearchEngine query={query} setQuery={setQuery} search={search} />
 
       {weather.loading && (
@@ -114,7 +113,7 @@ function App() {
       )}
 
       {weather && weather.data && weather.data.condition && (
-        // Forecast component
+        // ------------ Forecast component ---------------
         <Forecast weather={weather} toDate={toDate} />
       )}
     </div>
