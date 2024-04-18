@@ -45,6 +45,12 @@ Follow the following steps to get development environment running.
 - The app displays the current weather conditions, including temperature and weather description.
 - The app utilizes the SheCodes Weather API to fetch weather data.
 
+## Links :-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdkaif0412/)
+[![twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohdkaif0412/?utm_source=qr)
+
 ## Contributing :-
 Contributions are always welcome! Just raise an issue we will discuss it.
 
@@ -53,6 +59,3 @@ If you have any feedback, pleace reach out to me [here](https://www.linkedin.com
 
 ## License :-
 This project if free to use and does not conatins any license
-
-
-
